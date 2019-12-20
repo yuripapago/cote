@@ -1,15 +1,9 @@
-package yuripapago.cote.codility;
+package yuripapago.cote.codility.lesson01;
 
 
-public class No01_BinaryGap {
+public class BinaryGap {
 
-    public static void main(String[] args) {
-        int solution = solutionByBinaryTransform(1041);
-        System.out.print(solution);
-    }
-
-
-    public static int solutionByBinaryTransform(int num) {
+    public int solution(int num) {
         String s = Integer.toBinaryString(num);
         System.out.println("binary : " + s);
 
