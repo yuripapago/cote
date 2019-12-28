@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1c65743-99ff-46db-a2dd-b5b6c37c763b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson03/FrogJump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson03/PermMissingElem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/yuripapago/designpattern/singleton/Singleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/yuripapago/designpattern/singleton/SingletonEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson03/FrogJumpTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson03/PermMissingElemTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/CyclicRotation.java" afterPath="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/CyclicRotation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/OddOccurrencesInArray.java" afterPath="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArray.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/CyclicRotationTest.java" afterPath="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson02/CyclicRotationTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/OddOccurrencesInArrayTest.java" afterPath="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArrayTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/BinaryGap.java" afterPath="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/BinaryGap.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +25,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="BinaryGap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/BinaryGap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="5" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="38">
+              <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -29,43 +39,18 @@
       <file leaf-file-name="BinaryGapTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/BinaryGapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="171">
               <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="314" column="17" lean-forward="false" selection-start-line="314" selection-start-column="17" selection-end-line="314" selection-end-column="17" />
-              <folding>
-                <element signature="e#10902#10903#0" expanded="true" />
-                <element signature="e#10948#10949#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="CyclicRotation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/CyclicRotation.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/CyclicRotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+            <state relative-caret-position="95">
+              <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,54 +58,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CyclicRotationTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/CyclicRotationTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson02/CyclicRotationTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="OddOccurrencesInArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/OddOccurrencesInArray.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="59">
+              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OddOccurrencesInArrayTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/OddOccurrencesInArrayTest.java">
+      <file leaf-file-name="FrogJump.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson03/FrogJump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            <state relative-caret-position="95">
+              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermMissingElem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson03/PermMissingElem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermMissingElemTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson03/PermMissingElemTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OddOccurrencesInArrayTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrogJumpTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson03/FrogJumpTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="37" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -130,6 +135,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -150,22 +156,32 @@
         <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/No03_CyclicRotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/No01_BinaryGap.java" />
         <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/BinaryGap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/BinaryGap.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/BinaryGapTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/OddOccurrencesInArrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/OddOccurrencesInArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/CyclicRotationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/CyclicRotation.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/yuripapago/designpattern/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yuripapago/designpattern/singleton/Enum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yuripapago/designpattern/singleton/SingletonEnum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson03/FrogJumpTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/OddOccurrencesInArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/BinaryGap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/CyclicRotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson03/FrogJump.java" />
+        <option value="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson03/PermMissingElemTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson03/PermMissingElem.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="92" />
-    <option name="y" value="-8" />
-    <option name="width" value="1836" />
-    <option name="height" value="1096" />
+    <option name="x" value="150" />
+    <option name="y" value="12" />
+    <option name="width" value="1447" />
+    <option name="height" value="868" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -173,7 +189,7 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -182,9 +198,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,7 +245,81 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="lesson03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lesson01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -272,6 +362,80 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cote" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lesson01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -282,7 +446,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../visualvm_139/bin/visualvm.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -292,7 +456,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="yuripapago.cote.codility.lesson03" />
       <recent name="yuripapago.cote.codility.lesson01" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="yuripapago.cote.codility.lesson02" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -313,97 +481,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OddOccurrencesInArrayTest.test">
-    <configuration default="false" name="BinaryGapTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="yuripapago.cote.codility.lesson01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cote" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson01" />
-      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson01.BinaryGapTest" />
-      <option name="METHOD_NAME" value="solution" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="BinaryGapTest.testSolution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="yuripapago.cote.codility.lesson01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cote" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson01" />
-      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson01.BinaryGapTest" />
-      <option name="METHOD_NAME" value="testSolution" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="BinaryGapTest.testBinary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="yuripapago.cote.codility.lesson01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cote" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson01" />
-      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson01.BinaryGapTest" />
-      <option name="METHOD_NAME" value="testBinary" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.PermMissingElemTest.test">
     <configuration default="false" name="OddOccurrencesInArrayTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="yuripapago.cote.codility.lesson01.*" />
+          <option name="PATTERN" value="yuripapago.cote.codility.lesson02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="cote" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson01" />
-      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson01.OddOccurrencesInArrayTest" />
+      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson02" />
+      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson02.OddOccurrencesInArrayTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -418,20 +508,98 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="OddOccurrencesInArrayTest.testUseStreamAPI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FrogJumpTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="yuripapago.cote.codility.lesson01.*" />
+          <option name="PATTERN" value="yuripapago.cote.codility.lesson03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="cote" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson01" />
-      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson01.OddOccurrencesInArrayTest" />
-      <option name="METHOD_NAME" value="testUseStreamAPI" />
+      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson03" />
+      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson03.FrogJumpTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PermMissingElemTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="yuripapago.cote.codility.lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cote" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson03" />
+      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson03.PermMissingElemTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PermMissingElemTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="yuripapago.cote.codility.lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cote" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson03" />
+      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson03.PermMissingElemTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PermMissingElemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="yuripapago.cote.codility.lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="cote" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="yuripapago.cote.codility.lesson03" />
+      <option name="MAIN_CLASS_NAME" value="yuripapago.cote.codility.lesson03.PermMissingElemTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -624,19 +792,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BinaryGapTest.solution" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.BinaryGapTest.testSolution" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BinaryGapTest.testBinary" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.OddOccurrencesInArrayTest.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.OddOccurrencesInArrayTest.testUseStreamAPI" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.OddOccurrencesInArrayTest.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FrogJumpTest.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PermMissingElemTest.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PermMissingElemTest.test2" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PermMissingElemTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.OddOccurrencesInArrayTest.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.OddOccurrencesInArrayTest.testUseStreamAPI" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BinaryGapTest.testBinary" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BinaryGapTest.testSolution" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BinaryGapTest.solution" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PermMissingElemTest.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PermMissingElemTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PermMissingElemTest.test2" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FrogJumpTest.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.OddOccurrencesInArrayTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -665,76 +833,83 @@
       <option name="project" value="LOCAL" />
       <updated>1576867537285</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="코딜리티 테스트">
+      <created>1576867582020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576867582020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinaryGapTest_testBinary - 2019.12.21 at 03h 07m 55s.xml">
-      <configuration name="BinaryGapTest.testBinary" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest - 2019.12.29 at 02h 14m 46s.xml">
+      <configuration name="PermMissingElemTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_testBinary - 2019.12.21 at 03h 10m 33s.xml">
-      <configuration name="BinaryGapTest.testBinary" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest_test - 2019.12.29 at 02h 15m 04s.xml">
+      <configuration name="PermMissingElemTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_testBinary - 2019.12.21 at 03h 12m 07s.xml">
-      <configuration name="BinaryGapTest.testBinary" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest_test - 2019.12.29 at 02h 15m 36s.xml">
+      <configuration name="PermMissingElemTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_testBinary - 2019.12.21 at 03h 12m 34s.xml">
-      <configuration name="BinaryGapTest.testBinary" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest_test - 2019.12.29 at 02h 24m 37s.xml">
+      <configuration name="PermMissingElemTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_testBinary - 2019.12.21 at 03h 12m 43s.xml">
-      <configuration name="BinaryGapTest.testBinary" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest_test2 - 2019.12.29 at 02h 06m 39s.xml">
+      <configuration name="PermMissingElemTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_testBinary - 2019.12.21 at 03h 12m 52s.xml">
-      <configuration name="BinaryGapTest.testBinary" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest_test2 - 2019.12.29 at 02h 07m 03s.xml">
+      <configuration name="PermMissingElemTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinaryGapTest_testBinary - 2019.12.21 at 03h 13m 03s.xml">
-      <configuration name="BinaryGapTest.testBinary" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest_test2 - 2019.12.29 at 02h 09m 54s.xml">
+      <configuration name="PermMissingElemTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OddOccurrencesInArrayTest_test - 2019.12.21 at 03h 20m 12s.xml">
-      <configuration name="OddOccurrencesInArrayTest.test" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest_test2 - 2019.12.29 at 02h 10m 44s.xml">
+      <configuration name="PermMissingElemTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OddOccurrencesInArrayTest_test - 2019.12.21 at 03h 21m 28s.xml">
-      <configuration name="OddOccurrencesInArrayTest.test" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest_test2 - 2019.12.29 at 02h 12m 25s.xml">
+      <configuration name="PermMissingElemTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OddOccurrencesInArrayTest_testUseLambda - 2019.12.21 at 03h 21m 24s.xml">
-      <configuration name="OddOccurrencesInArrayTest.testUseLambda" configurationId="JUnit" />
+    <history-entry file="PermMissingElemTest_test2 - 2019.12.29 at 02h 14m 01s.xml">
+      <configuration name="PermMissingElemTest.test2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="-8" width="1836" height="1096" extended-state="6" />
+    <frame x="150" y="12" width="1447" height="868" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32372025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -751,62 +926,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_121/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="355" column="66" lean-forward="false" selection-start-line="355" selection-start-column="66" selection-end-line="355" selection-end-column="66" />
-          <folding>
-            <element signature="e#14106#14107#0" expanded="true" />
-            <element signature="e#14155#14156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/BinaryGapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="314" column="17" lean-forward="false" selection-start-line="314" selection-start-column="17" selection-end-line="314" selection-end-column="17" />
-          <folding>
-            <element signature="e#10902#10903#0" expanded="true" />
-            <element signature="e#10948#10949#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/BinaryGap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -815,12 +934,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/OddOccurrencesInArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/BinaryGapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        <state relative-caret-position="247">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5415">
+          <caret line="314" column="17" lean-forward="false" selection-start-line="314" selection-start-column="17" selection-end-line="314" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#60784#0" expanded="false" />
+            <element signature="e#6101#6102#0" expanded="false" />
+            <element signature="e#6171#6172#0" expanded="false" />
+            <element signature="e#7967#7968#0" expanded="false" />
+            <element signature="e#8013#8014#0" expanded="false" />
+            <element signature="e#9482#9483#0" expanded="false" />
+            <element signature="e#9528#9529#0" expanded="false" />
+            <element signature="e#15724#15725#0" expanded="false" />
+            <element signature="e#15779#15780#0" expanded="false" />
+            <element signature="e#32532#32533#0" expanded="false" />
+            <element signature="e#32566#32567#0" expanded="false" />
+            <element signature="e#33488#33489#0" expanded="false" />
+            <element signature="e#33522#33523#0" expanded="false" />
+            <element signature="e#33736#33737#0" expanded="false" />
+            <element signature="e#33771#33772#0" expanded="false" />
+            <element signature="e#33891#33892#0" expanded="false" />
+            <element signature="e#33919#33920#0" expanded="false" />
+            <element signature="e#34168#34169#0" expanded="false" />
+            <element signature="e#34202#34203#0" expanded="false" />
+            <element signature="e#34414#34415#0" expanded="false" />
+            <element signature="e#34449#34450#0" expanded="false" />
+            <element signature="e#34664#34665#0" expanded="false" />
+            <element signature="e#34700#34701#0" expanded="false" />
+            <element signature="e#35161#35162#0" expanded="false" />
+            <element signature="e#35199#35200#0" expanded="false" />
+            <element signature="e#35486#35487#0" expanded="false" />
+            <element signature="e#35532#35533#0" expanded="false" />
+            <element signature="e#35824#35825#0" expanded="false" />
+            <element signature="e#35852#35853#0" expanded="false" />
+            <element signature="e#37816#37817#0" expanded="false" />
+            <element signature="e#37859#37860#0" expanded="false" />
+            <element signature="e#46394#46395#0" expanded="false" />
+            <element signature="e#46458#46459#0" expanded="false" />
+            <element signature="e#47036#47037#0" expanded="false" />
+            <element signature="e#47092#47093#0" expanded="false" />
+            <element signature="e#47615#47616#0" expanded="false" />
+            <element signature="e#47675#47676#0" expanded="false" />
+            <element signature="e#48444#48445#0" expanded="false" />
+            <element signature="e#48491#48492#0" expanded="false" />
+            <element signature="e#56465#56466#0" expanded="false" />
+            <element signature="e#56523#56524#0" expanded="false" />
+            <element signature="e#57650#57651#0" expanded="false" />
+            <element signature="e#57708#57709#0" expanded="false" />
+            <element signature="e#59796#59797#0" expanded="false" />
+            <element signature="e#59824#59825#0" expanded="false" />
+            <element signature="e#60191#60192#0" expanded="false" />
+            <element signature="e#60228#60229#0" expanded="false" />
+            <element signature="e#60595#60596#0" expanded="false" />
+            <element signature="e#60632#60633#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -829,29 +1004,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/CyclicRotationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/CyclicRotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/OddOccurrencesInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/CyclicRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
+        <state relative-caret-position="836">
           <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -867,10 +1028,250 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson02/CyclicRotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_121/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="355" column="66" lean-forward="false" selection-start-line="355" selection-start-column="66" selection-end-line="355" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_121/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5415">
+          <caret line="314" column="17" lean-forward="false" selection-start-line="314" selection-start-column="17" selection-end-line="314" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#60784#0" expanded="false" />
+            <element signature="e#6101#6102#0" expanded="false" />
+            <element signature="e#6171#6172#0" expanded="false" />
+            <element signature="e#7967#7968#0" expanded="false" />
+            <element signature="e#8013#8014#0" expanded="false" />
+            <element signature="e#9482#9483#0" expanded="false" />
+            <element signature="e#9528#9529#0" expanded="false" />
+            <element signature="e#15724#15725#0" expanded="false" />
+            <element signature="e#15779#15780#0" expanded="false" />
+            <element signature="e#32532#32533#0" expanded="false" />
+            <element signature="e#32566#32567#0" expanded="false" />
+            <element signature="e#33488#33489#0" expanded="false" />
+            <element signature="e#33522#33523#0" expanded="false" />
+            <element signature="e#33736#33737#0" expanded="false" />
+            <element signature="e#33771#33772#0" expanded="false" />
+            <element signature="e#33891#33892#0" expanded="false" />
+            <element signature="e#33919#33920#0" expanded="false" />
+            <element signature="e#34168#34169#0" expanded="false" />
+            <element signature="e#34202#34203#0" expanded="false" />
+            <element signature="e#34414#34415#0" expanded="false" />
+            <element signature="e#34449#34450#0" expanded="false" />
+            <element signature="e#34664#34665#0" expanded="false" />
+            <element signature="e#34700#34701#0" expanded="false" />
+            <element signature="e#35161#35162#0" expanded="false" />
+            <element signature="e#35199#35200#0" expanded="false" />
+            <element signature="e#35486#35487#0" expanded="false" />
+            <element signature="e#35532#35533#0" expanded="false" />
+            <element signature="e#35824#35825#0" expanded="false" />
+            <element signature="e#35852#35853#0" expanded="false" />
+            <element signature="e#37816#37817#0" expanded="false" />
+            <element signature="e#37859#37860#0" expanded="false" />
+            <element signature="e#46394#46395#0" expanded="false" />
+            <element signature="e#46458#46459#0" expanded="false" />
+            <element signature="e#47036#47037#0" expanded="false" />
+            <element signature="e#47092#47093#0" expanded="false" />
+            <element signature="e#47615#47616#0" expanded="false" />
+            <element signature="e#47675#47676#0" expanded="false" />
+            <element signature="e#48444#48445#0" expanded="false" />
+            <element signature="e#48491#48492#0" expanded="false" />
+            <element signature="e#56465#56466#0" expanded="false" />
+            <element signature="e#56523#56524#0" expanded="false" />
+            <element signature="e#57650#57651#0" expanded="false" />
+            <element signature="e#57708#57709#0" expanded="false" />
+            <element signature="e#59796#59797#0" expanded="false" />
+            <element signature="e#59824#59825#0" expanded="false" />
+            <element signature="e#60191#60192#0" expanded="false" />
+            <element signature="e#60228#60229#0" expanded="false" />
+            <element signature="e#60595#60596#0" expanded="false" />
+            <element signature="e#60632#60633#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/designpattern/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#312#313#0" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/designpattern/singleton/SingletonEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson02/CyclicRotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/CyclicRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson01/BinaryGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson03/FrogJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson01/BinaryGapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson02/OddOccurrencesInArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson03/FrogJumpTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="37" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="12" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/yuripapago/cote/codility/lesson03/PermMissingElemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/yuripapago/cote/codility/lesson03/PermMissingElem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding />
         </state>
       </provider>

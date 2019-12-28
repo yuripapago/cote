@@ -1,4 +1,4 @@
-package yuripapago.cote.codility.lesson01;
+package yuripapago.cote.codility.lesson02;
 
 
 import java.util.concurrent.BlockingDeque;
@@ -6,6 +6,7 @@ import java.util.concurrent.LinkedBlockingDeque;
 
 public class CyclicRotation {
 
+    //
     public int[] solution(int[] arr, int k) {
         if (arr == null) {
             int empty[] = {};

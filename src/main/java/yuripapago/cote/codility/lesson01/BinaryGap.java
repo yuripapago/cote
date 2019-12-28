@@ -3,6 +3,7 @@ package yuripapago.cote.codility.lesson01;
 
 public class BinaryGap {
 
+    //이진변환후 연속된 0의 개수중 가장 큰 것을 리턴
     public int solution(int num) {
         String s = Integer.toBinaryString(num);
         System.out.println("binary : " + s);

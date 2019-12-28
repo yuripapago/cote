@@ -1,6 +1,7 @@
-package yuripapago.cote.codility.lesson01;
+package yuripapago.cote.codility.lesson02;
 
 import org.junit.Test;
+import yuripapago.cote.codility.lesson02.CyclicRotation;
 
 /**
  * Created by heesu on 2019-12-21.

@@ -1,5 +1,4 @@
-package yuripapago.cote.codility.lesson01;
-
+package yuripapago.cote.codility.lesson02;
 
 
 import java.util.HashSet;
